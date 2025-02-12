@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-- Building responsive UIs with React & modern CSS<br>- REST API development with Node.js and Express<br>- Database design with MongoDB (NoSQL) and PostgreSQL (SQL)<br>- Authentication strategies (JWT, OAuth)<br>- Deployment workflows (Docker, AWS, Heroku)
+- Building responsive UIs with React & modern CSS<br>
+- - REST API development with Node.js and Express<br>
+- Database design with  MongoDB (NoSQL) and PostgreSQL (SQL)<br>
+- Authentication strategies (JWT, OAuth)<br>
+- Deployment workflows (Docker, AWS, Heroku)
 
 ## 🌐 Socials:
 
