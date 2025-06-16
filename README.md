@@ -1,8 +1,8 @@
-<!-- HEADER -->
+<!-- 
+  HEADER: Animated typing text for a huge visual impact.
+-->
 <div align="center">
-  <pre>SYSTEM.ACCESS.GRANTED</pre>
-  <h1>Abdishakur Suleiman</h1>
-  <p>Full-Stack Developer | AI & Machine Learning Enthusiast</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=SYSTEM.ACCESS.GRANTED;Abdishakur+Suleiman;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <!-- SOCIALS, JOIN DATE & VIEWS -->
@@ -13,6 +13,23 @@
   <img src="https://img.shields.io/badge/USER%20SINCE-Jan%202023-00ff00?style=for-the-badge" alt="User Since Jan 2023"/>
   <img src="https://komarev.com/ghpvc/?username=abdiism&label=SYSTEM.SCANS&color=00ff00&style=for-the-badge" alt="profile views"/>
 </div>
+
+---
+
+<!-- 
+  ABOUT ME / SYSTEM LOG: A stylized section for your bio.
+-->
+<h2 align="center">SYSTEM_LOG: ABOUT_ME</h2>
+<pre align="center">
+  <code>
+    > Booting user profile...
+    > Loading modules: [AI, WebDev, Cloud]
+    > Identity: Abdishakur Suleiman
+    > Focus: Building intelligent systems and scalable web applications.
+    > Current Status: Exploring advanced neural networks and distributed systems.
+    > Contact: Available for collaboration.
+  </code>
+</pre>
 
 ---
 
@@ -32,21 +49,16 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">STREAK_STATS</h2>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiism&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">TROPHY_CASE</h2>
-      <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=abdiism&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-      </div>
-    </td>
-  </tr>
 </table>
+
+<!-- 
+  WAKATIME STATS: Professional coding metrics.
+  This requires the WakaTime setup described below.
+-->
+<h2 align="center">CODE_TIME_ANALYSIS</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdiism&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515&layout=compact" alt="WakaTime Stats"/>
+</p>
 
 ---
 
@@ -63,17 +75,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,numpy,pandas,jupyter,docker,git,linux,bash&theme=dark" alt="AI/ML Tech Stack"/>
 </div>
-
----
-
-<!--
-  THE SNAKE ANIMATION: This is the coolest part.
-  It will appear here after the setup below.
--->
-<h2 align="center">CONTRIBUTION_SNAKE</h2>
-<p align="center">
-  <img src="https://github.com/abdiism/abdiism/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
 
 ---
 
