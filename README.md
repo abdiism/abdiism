@@ -5,7 +5,7 @@
 
 <!-- Website Link -->
 <h3 align="center">
-  <a href="https://your-website-url.com">Click here to visit my website!</a>
+  <a href="https://abdi.live">Click here to visit my website!</a>
 </h3>
 
 <!-- Profile Views Counter -->
@@ -30,6 +30,7 @@
 </div>
 
 <br>
+<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/graph/2/graph.gif?username=abdiism&theme=tokyonight" width="100%">
 
 <!-- Commits by Hour Title -->
 <h2 align="center">Commits (UTC)</h2>
