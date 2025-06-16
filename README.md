@@ -1,37 +1,27 @@
-<!-- 
-  HEADER: Hacker terminal style.
-  The <pre> tag helps enforce a monospaced font.
--->
+<!-- HEADER: Pure hacker terminal style -->
 <div align="center">
   <pre>SYSTEM.ACCESS.GRANTED</pre>
   <h1>Abdishakur Suleiman</h1>
-  <h3>> Full-Stack Developer | Cyber-Enthusiast_</h3>
-</div>
-
-<!-- 
-  PROFILE VIEWS (TOP): Themed and moved to the top as requested.
--->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdiism&label=SYSTEM.SCANS&color=00ff00&style=flat-square" alt="profile views"/>
 </div>
 
 ---
 
 <!-- 
-  STATS & LANGUAGES: Two-column layout with the "radical" theme for a hacker look.
+  STATS & LANGUAGES: CUSTOM GREEN THEME
+  I have manually set the colors to eliminate all pink and create a unified green theme.
 -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">USER_STATS</h2>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdiism&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=abdiism&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515" alt="GitHub Stats"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <h2 align="center">CORE_LANGUAGES</h2>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiism&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiism&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515" alt="Top Languages"/>
       </div>
     </td>
   </tr>
@@ -40,28 +30,27 @@
 ---
 
 <!-- 
-  TECH STACK: Themed icons to match the dark background.
-  ✍️ EDIT THIS! Add your technologies. Find icons at: https://skillicons.dev/
+  TECH STACK: Updated with AI/ML technologies as requested.
 -->
-<h2 align-="center">TOOLKIT</h2>
+<h2 align="center">TOOLKIT.AI</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,git,vscode,linux,bash&theme=dark" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikitlearn,numpy,pandas,jupyter,linux,bash,git&theme=dark" alt="AI/ML Tech Stack"/>
 </div>
 
 ---
 
 <!-- 
-  CONTRIBUTION GRAPH: THIS IS THE FIX.
-  It's now a green, wireframe contribution graph, just like your image.
+  CONTRIBUTION GRAPH: THIS IS THE CORRECT, WORKING LINK.
+  It generates the green wireframe graph.
 -->
 <h2 align="center">CONTRIBUTION_MATRIX</h2>
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/abdiism?y=last&theme=green" alt="Contribution Graph" width="95%">
-</div>
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/abdiism?y=last&theme=green" alt="Contribution Graph">
+</p>
 
-<!-- 
-  FOOTER
--->
+---
+
+<!-- FOOTER -->
 <div align="center">
   <pre>SESSION.TERMINATED</pre>
 </div>
