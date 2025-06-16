@@ -1,6 +1,4 @@
-<!-- 
-  HEADER: Animated typing text for a huge visual impact.
--->
+<!-- HEADER: Animated typing text -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=SYSTEM.ACCESS.GRANTED;Abdishakur+Suleiman;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 </div>
@@ -16,9 +14,7 @@
 
 ---
 
-<!-- 
-  ABOUT ME / SYSTEM LOG: A stylized section for your bio.
--->
+<!-- ABOUT ME / SYSTEM LOG -->
 <h2 align="center">SYSTEM_LOG: ABOUT_ME</h2>
 <pre align="center">
   <code>
@@ -33,7 +29,7 @@
 
 ---
 
-<!-- STATS & LANGUAGES -->
+<!-- STATS & WAKATIME -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -43,21 +39,22 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">CORE_LANGUAGES</h2>
+      <h2 align="center">CODE_TIME_ANALYSIS</h2>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiism&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdiism&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515&layout=compact" alt="WakaTime Stats"/>
       </div>
     </td>
   </tr>
 </table>
 
+---
+
 <!-- 
-  WAKATIME STATS: Professional coding metrics.
-  This requires the WakaTime setup described below.
+  THE NEW "WOW" FACTOR: GLOBAL VISITOR MAP 
 -->
-<h2 align="center">CODE_TIME_ANALYSIS</h2>
+<h2 align="center">GLOBAL_ACCESS_POINTS</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdiism&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://visitormap.vercel.app/api/v2?username=abdiism&bgColor=151515&itemColor=00FF00" alt="Visitor Map"/>
 </p>
 
 ---
