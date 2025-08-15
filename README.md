@@ -5,7 +5,7 @@
 
 <!-- SOCIALS, JOIN DATE & VIEWS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/abdishakursm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF00" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/USER%20SINCE-Jan%202023-00ff00?style=for-the-badge" alt="User Since Jan 2023"/>
@@ -79,3 +79,4 @@
 <div align="center">
   <pre>SESSION.TERMINATED</pre>
 </div>
+
