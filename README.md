@@ -1,6 +1,6 @@
 <!-- HEADER: Animated typing text -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=SYSTEM.ACCESS.GRANTED;Abdishakur+Suleiman;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=SYSTEM.ACCESS.GRANTED;Abdi+**;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <!-- SOCIALS, JOIN DATE & VIEWS -->
@@ -79,5 +79,6 @@
 <div align="center">
   <pre>SESSION.TERMINATED</pre>
 </div>
+
 
 
