@@ -19,10 +19,10 @@
 <pre align="center">
   <code>
     > Booting user profile...
-    > Loading modules: [AI, WebDev, Cloud]
-    > Identity: Abdishakur Suleiman
+    > Loading modules: AI, WebDev, Cloud
+    > Identity: :)Abdi*
     > Focus: Building intelligent systems and scalable web applications.
-    > Current Status: Exploring advanced neural networks and distributed systems.
+    > Current Status: Exploring NLP, neural networks, and distributed systems.
     > Contact: Available for collaboration.
   </code>
 </pre>
@@ -79,4 +79,5 @@
 <div align="center">
   <pre>SESSION.TERMINATED</pre>
 </div>
+
 
