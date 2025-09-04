@@ -29,35 +29,6 @@
 
 ---
 
-<!-- STATS & WAKATIME -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">USER_STATS</h2>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdiism&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515" alt="GitHub Stats"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">CODE_TIME_ANALYSIS</h2>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdiism&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=151515&layout=compact" alt="WakaTime Stats"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 
-  THE NEW "WOW" FACTOR: GLOBAL VISITOR MAP 
--->
-<h2 align="center">GLOBAL_ACCESS_POINTS</h2>
-<p align="center">
-  <img src="https://visitormap.vercel.app/api/v2?username=abdiism&bgColor=151515&itemColor=00FF00" alt="Visitor Map"/>
-</p>
-
----
 
 <!-- ACTIVITY GRAPH -->
 <h2 align="center">ACTIVITY_LOG</h2>
@@ -79,6 +50,7 @@
 <div align="center">
   <pre>SESSION.TERMINATED</pre>
 </div>
+
 
 
 
